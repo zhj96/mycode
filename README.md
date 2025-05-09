@@ -1,4 +1,3 @@
-````markdown
 # Bayesian Synthetic Control Method (BSCM)
 
 This repository contains implementations of the Synthetic Control Method (SCM) and its Bayesian variants using different priors.
